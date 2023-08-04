@@ -51,4 +51,4 @@ let weather = {
       }
     });
   
-  weather.fetchWeather("Ranchi");
+  weather.fetchWeather("Ayodhya");
